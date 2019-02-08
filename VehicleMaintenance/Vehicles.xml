@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vehicles>
+    <vehicle>
+        <maintenance>
+            <date>03/27/18</date>
+            <miles>1000</miles>
+            <workDone>Vehicle Created.</workDone>
+        </maintenance>
+        <make>Dodge</make>
+        <model>Challenger Demon</model>
+        <year>2018</year>
+    </vehicle>
+    <vehicle>
+        <maintenance>
+            <date>05/04/18</date>
+            <miles>85234</miles>
+            <workDone>All maintenance has been deleted.
+However, we saved the most recent date and milage for this vehicle.</workDone>
+        </maintenance>
+        <make>Dodge</make>
+        <model>Neon SRT-4</model>
+        <year>2004</year>
+    </vehicle>
+    <vehicle>
+        <maintenance>
+            <date>09/05/18</date>
+            <miles>165000</miles>
+            <workDone>Vehicle Created.</workDone>
+        </maintenance>
+        <maintenance>
+            <date>09/05/18</date>
+            <miles>165100</miles>
+            <workDone>Put ricer muffler</workDone>
+        </maintenance>
+        <make>Pontiac</make>
+        <model>G6 Gt</model>
+        <year>2007</year>
+    </vehicle>
+</vehicles>
